@@ -92,3 +92,9 @@ cd xxx\klua\bgfx\bgfx
 * klua
 * wlua
 ```
+
+## 三、常用git点
+### [1. 开源系统](https://github.com/lishaoliang/kltest/blob/master/doc/git/os.md)
+### [2. 开源语言](https://github.com/lishaoliang/kltest/blob/master/doc/git/language.md)
+
+### [基础C/C++库](https://github.com/lishaoliang/kltest/blob/master/doc/git/c_cpp.md)
