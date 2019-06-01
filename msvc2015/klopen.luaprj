@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <Project Name="klopen.luaprj" Cmd="" Arg="" Dir="" Toggle="false" >
-    <Filter RelativePath=".\..\lua_helper" Toggle="false" >
+    <Filter RelativePath=".\..\lua_helper" Toggle="true" >
         <Filter RelativePath=".\std" Toggle="false" >
             <LuaFile RelativePath=".\cjson.lua" />
             <LuaFile RelativePath=".\lfs.lua" />
@@ -14,12 +14,12 @@
         </Filter>
         <LuaFile RelativePath=".\lua_author.lua" />
     </Filter>
-    <Filter RelativePath=".\..\lua" Toggle="false" >
+    <Filter RelativePath=".\..\lua" Toggle="true" >
         <Filter RelativePath=".\test" Toggle="false" >
             <Filter RelativePath=".\bgfx" Toggle="false" >
                 <LuaFile RelativePath=".\t_bgfx.lua" />
             </Filter>
-            <Filter RelativePath=".\hash" Toggle="true" >
+            <Filter RelativePath=".\hash" Toggle="false" >
                 <LuaFile RelativePath=".\t_hash.lua" />
             </Filter>
         </Filter>
